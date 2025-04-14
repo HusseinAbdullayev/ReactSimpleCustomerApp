@@ -1,0 +1,17 @@
+body {
+  display: grid;
+  place-items: center; 
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(129, 218, 218);
+}
+
+.App {
+  padding: 30px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.App h1 {
+  margin-bottom: 20px;
+}
